@@ -1,6 +1,6 @@
 # shredbeat-server
 
-> Server for [Shredbeat](https://github.com/miguelmota/shredbeat)
+> Server for [Shredbeat](https://github.com/miguelmota/shredbeat) app
 
 ## Usage
 
