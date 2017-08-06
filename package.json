@@ -28,7 +28,10 @@
   },
   "homepage": "https://github.com/miguelmota/shredbeat-server",
   "devDependencies": {
-
+    "eslint": "^4.4.0",
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1"
   },
   "engines": {
     "node": ">=0.10.0"
