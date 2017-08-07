@@ -91,7 +91,8 @@ function handleMessage (socket, message) {
     return false
   }
 
-  const {eventName, data} = message
+  const eventName = message.eventName
+  const data = message.data
 
   if (eventName === 'logon') {
     logon(socket, data)
